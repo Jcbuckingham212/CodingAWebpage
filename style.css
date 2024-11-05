@@ -187,21 +187,21 @@ p {
 a {
     color: green;
 }
-#Image1{
+#image1{
 	display: block;
 	float:right;
 	margin-left: auto;
 	margin-right: 50px;
 	padding-left: 20px;
 }
-#HeroImage, #HeroImage1, #HeroImage3{
+#heroimage, #heroimage1, #heroimage3{
 	display:block;
 	margin-left: auto;
 	margin-right: auto;
 	padding-bottom: 40px;
 	
 }
-#HeroImage2 {
+#heroimage2 {
 	display:block;
 	margin-left: auto;
 	margin-right: auto;
